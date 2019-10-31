@@ -1,0 +1,20 @@
+﻿  ConsoleGame.cpp
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(21,33): warning C4305:  'initializing': truncation from '__int64' to 'int'
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(21,22): warning C4309:  'initializing': truncation of constant value
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(188,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(248,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(276,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(280,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(349,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(376,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(385,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(429,39): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(430,50): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(501,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(523,26): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(773,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(804,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(1079,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(1196,37): warning C4244:  '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\stupe\source\repos\ConsoleGame\ConsoleGame\ConsoleGame.cpp(1204,37): warning C4244:  '=': conversion from 'double' to 'long', possible loss of data
+  ConsoleGame.vcxproj -> C:\Users\stupe\source\repos\ConsoleGame\Debug\ConsoleGame.exe
